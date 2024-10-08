@@ -39,5 +39,5 @@
 ![字典大全赏赞](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/sz.jpg)
 
 ## 支持字典大全
-![字典大全捐赠](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/zf.jpg)
+![支持字典大全](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/zf.jpg)
 
