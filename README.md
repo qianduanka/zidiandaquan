@@ -25,17 +25,17 @@
 8、欢迎留言讨论，您期待字典大全小程序有哪些功能呢？
 
 ## 微信号 zidiadaquan
-![字典大全公众号](./wxh.jpg)
+![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/wxh.jpg)
 
 ## 字典大全小程序
-![字典大全公众号](./xcx.jpg)
+![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/xcx.jpg)
 
 ## 字典大全公众号
-![字典大全公众号](./gzh.jpg)
+![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/gzh.jpg)
 
 ## 字典大全赏赞
-![字典大全赏赞](./sz.jpg)
+![字典大全赏赞](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/sz.jpg)
 
 ## 支持字典大全
-![字典大全捐赠](./zf.jpg)
+![字典大全捐赠](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/zf.jpg)
 
