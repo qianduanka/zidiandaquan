@@ -27,17 +27,17 @@
 9、学习汉语拼音、学习汉字、学习中文、学习中国话在字典大全小程序上。
 
 ## 微信号 zidiadaquan
-![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/wxh.jpg)
+![字典大全公众号]https://qianduanka.github.io/assets/images/zddq/wxh.jpg)
 
 ## 字典大全小程序
-![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/xcx.jpg)
+![字典大全公众号](https://qianduanka.github.io/assets/images/zddq/xcx.jpg)
 
 ## 字典大全公众号
-![字典大全公众号](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/gzh.jpg)
+![字典大全公众号](https://qianduanka.github.io/assets/images/zddq/gzh.jpg)
 
 ## 字典大全赏赞
-![字典大全赏赞](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/sz.jpg)
+![字典大全赏赞](https://qianduanka.github.io/assets/images/zddq/sz.jpg)
 
 ## 支持字典大全
-![支持字典大全](https://raw.githubusercontent.com/qianduanka/zidiandaquan/refs/heads/main/zf.jpg)
+![支持字典大全](https://qianduanka.github.io/assets/images/zddq/zf.jpg)
 
