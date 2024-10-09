@@ -27,7 +27,7 @@
 9、学习汉语拼音、学习汉字、学习中文、学习中国话在字典大全小程序上。
 
 ## 微信号 zidiadaquan
-![字典大全公众号]https://qianduanka.github.io/assets/images/zddq/wxh.jpg)
+![字典大全公众号](https://qianduanka.github.io/assets/images/zddq/wxh.jpg)
 
 ## 字典大全小程序
 ![字典大全公众号](https://qianduanka.github.io/assets/images/zddq/xcx.jpg)
